@@ -82,14 +82,12 @@ jupyter notebook Resume_Classification.ipynb
 ```
 
 ## Future Improvements
-Deployment via Streamlit or Flask for real-time classification
-
-Integration with OCR for PDF/DOCX resume uploads
-
-Incorporate deep learning (e.g., BERT, LSTM) for better accuracy
+   - Deployment via Streamlit or Flask for real-time classification
+   - Integration with OCR for PDF/DOCX resume uploads
+   - Incorporate deep learning (e.g., BERT, LSTM) for better accuracy
 
 ## License
 This project is open-source and available under the MIT License.
 
 ## Author
-Pandi Dharan
+Pandidharan
