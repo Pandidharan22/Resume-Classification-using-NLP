@@ -50,7 +50,7 @@ You can download the dataset used in this project from [here](https://www.kaggle
 Install the required packages using the following command:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements1.txt
 ```
 
 ## Folder Structure
@@ -58,7 +58,7 @@ pip install -r requirements.txt
 Resume_Classification/
 │
 ├── Resume_Classification.ipynb    # Main notebook
-├── requirements.txt               # Python package requirements
+├── requirements1.txt               # Python package requirements
 ├── dataset/                       # Contains resume data (if applicable)
 ├── README.md                      # Project documentation
 ```
@@ -73,7 +73,7 @@ cd resume-classification
 2. **Install dependencies**:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements1.txt
 ```
 3. **Open the Jupyter notebook**:
 
